@@ -1,1 +1,3 @@
-# docker-registry-client
+# Docker Registry Client
+
+PHP Library
