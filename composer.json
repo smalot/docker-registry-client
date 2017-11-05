@@ -1,0 +1,21 @@
+{
+    "name": "smalot/docker-registry-client",
+    "description": "PHP Client for Docker Registry V2.",
+    "keywords": ["docker", "registry", "api", "private", "client"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sébastien MALOT",
+            "email": "sebastien@malot.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Smalot\\Docker\\Registry\\": "src"
+        }
+    }
+}
